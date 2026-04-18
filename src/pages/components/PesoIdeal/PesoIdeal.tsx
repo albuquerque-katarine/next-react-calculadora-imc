@@ -10,9 +10,14 @@ export default function PesoIdeal() {
     const [altura, setAltura] = useState<number>(0);
     const [imc, setImc] = useState<number>(0);
 
-    function calcularImc() {
-        let calcImc = peso / (altura * altura);        
-        setImc(calcImc); 
+    function calcularImc() {        
+        let calcImc = peso / (altura * altura);
+        if(Number.isNaN(calcImc)) {
+            setImc(0);
+        }
+        else {
+            setImc(calcImc); 
+        }
     }
 
     return(
