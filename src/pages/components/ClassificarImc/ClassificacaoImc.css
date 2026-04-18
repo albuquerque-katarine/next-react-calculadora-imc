@@ -1,0 +1,7 @@
+/*ClassificacaoImc.tsx*/
+
+.itens_classificacao {
+  flex-wrap: wrap;
+  margin-top: 2rem;
+  height: auto;
+}

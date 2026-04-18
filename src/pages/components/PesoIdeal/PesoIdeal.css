@@ -1,0 +1,73 @@
+/*PesoIdeal.tsx*/
+
+.pesoideal_coluna {
+  width: 45%;
+}
+
+.pesoideal,
+.pesoideal_row {
+  height: 100vh;
+}
+
+@media(max-width: 1280px) {
+  .pesoideal,
+  .pesoideal_row {
+    height: auto;
+  }
+
+  .pesoideal_row {
+    flex-wrap: wrap!important;
+    text-align: center;
+  }
+
+  .pesoideal_coluna {
+    width: 100%!important;
+    padding: 20px;
+    height: auto;
+    text-align: center;
+  }
+}
+
+@media(max-width: 992px) {
+  .pesoideal,
+  .pesoideal_row {
+    height: auto;
+  }
+
+  .pesoideal_row {
+    flex-wrap: wrap!important;
+    text-align: center;
+  }
+
+  .pesoideal_coluna {
+    width: 100%!important;
+    padding: 20px;
+    height: auto;
+    text-align: center;
+  }
+}
+
+@media(max-width: 768px) {  
+  .pesoideal,
+  .pesoideal_row {
+    height: auto;
+  }
+
+  .pesoideal_row {
+    flex-wrap: wrap!important;
+    text-align: center;
+  }
+
+  .pesoideal_coluna {
+    width: 100%!important;
+    padding: 20px;
+    height: auto;
+    text-align: center;
+  }
+}
+
+@media(max-width: 567px) {
+  .pesoideal_coluna {
+    width: 100%!important;
+  }
+}

@@ -1,0 +1,28 @@
+/*FormImc.tsx*/
+
+.titulo_form h3 {
+  font-size: 3rem;
+  color: #800080;
+}
+
+.titulo_form span {
+  font-size: 2rem!important;
+}
+
+button {
+  width: auto;
+  padding: 10px 12px;
+  background-color: #d400aa;
+  color: #fff;
+  font-size: 1.5rem;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+@media(max-width: 567px) {
+  button {    
+    padding: 10px 12px;
+    font-size: 1rem;
+    border-radius: 6px;
+  }
+}
