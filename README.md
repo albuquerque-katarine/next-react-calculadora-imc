@@ -3,6 +3,8 @@
 
 ![alt text](image.png)
 
+Acesse o aplicativo: [Calculadora IMC](https://albuquerque-katarine.github.io/next-react-calculadora-imc/)
+
 ## Objetivo
 
 Aplicação web desenvolvida em Next.js/React para cálculo do IMC (Índice de Massa Corporal).
