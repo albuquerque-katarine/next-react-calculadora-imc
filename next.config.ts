@@ -4,8 +4,8 @@ const nextConfig: NextConfig = {
   /* config options here */
   reactStrictMode: true,
   devIndicators: false,
-  // output: 'export',
-  // distDir: "out"
+  output: 'export',
+  distDir: "out"
 };
 
 export default nextConfig;
