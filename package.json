@@ -2,6 +2,7 @@
   "name": "calc_imc",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://albuquerque-katarine.github.io/next-react-calculadora-imc/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
