@@ -51,8 +51,6 @@ Interface moderna, simples e focada em usabilidade.
 
 **Modo Desenvolvimento:** "npm run dev"
 
-**Modo Produção:** "npm start"
-
 ## Contatos
 - E-mail: [kba.2879@gmail.com](mailTo:kba.2879@gmail.com)
 - Linkedin: [/katarine-albuquerque](https://www.linkedin.com/in/katarine-albuquerque/)
