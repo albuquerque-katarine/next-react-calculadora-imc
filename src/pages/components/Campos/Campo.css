@@ -15,6 +15,8 @@
 .label_p {
   width: 150px!important;
   font-size: 1.5rem;
+  text-align: right;
+  margin-right: 20px;
 }
 
 .input_form {
@@ -36,12 +38,13 @@
 
   .label_p {
     width: 150px!important;
-    font-size: 1rem;
+    font-size: 1.5rem;
   }
 
-  .input_form {    
+  .input_form {
+    height: 60px;
     padding: 6px;
     border-radius: 6px;
-    font-size: 1rem;
+    font-size: 2rem;
   }
 }

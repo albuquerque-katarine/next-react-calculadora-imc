@@ -67,19 +67,19 @@
 
 @media(max-width: 1200px) {  
   .item_classificar {
-      width: 18rem;
+      width: 16rem;
   }
 }
 
 @media(max-width: 992px) {  
   .item_classificar {
-      width: 12.5rem;
+      width: 13rem;
   }
 }
 
 @media(max-width: 768px) {  
   .item_classificar {
-      width: 12rem;
+      width: 8.8rem;
   }
 
   .item_classificar h4 {
@@ -93,14 +93,14 @@
 
 @media(max-width: 567px) {  
   .item_classificar {
-      width: 8.7rem;
+      width: 12rem;
   }
 
   .item_classificar h4 {
-    font-size: 1.2rem;
+    font-size: 1rem;
   }
 
   .item_classificar h5 {
-    font-size: 0.97rem;
+    font-size: 0.9rem;
   }
 }
