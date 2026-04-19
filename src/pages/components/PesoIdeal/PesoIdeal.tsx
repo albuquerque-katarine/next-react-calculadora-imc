@@ -22,7 +22,7 @@ export default function PesoIdeal() {
 
     return(
         <div className='pesoideal flex flex-col w-full'>
-            <section className='pesoideal_row flex w-full justify-center items-center gap-20'>
+            <section className='pesoideal_row flex w-full justify-center items-center gap-10'>
                 <div className='pesoideal_coluna flex flex-col justify-center items-center '>
                     <Header/>
                     <TotalImc vImc={imc.toFixed(1)}/>
