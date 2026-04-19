@@ -79,7 +79,7 @@
 
 @media(max-width: 768px) {  
   .item_classificar {
-      width: 8.8rem;
+      width: 10rem;
   }
 
   .item_classificar h4 {
@@ -93,7 +93,7 @@
 
 @media(max-width: 567px) {  
   .item_classificar {
-      width: 8rem;
+      width: 8.9rem;
   }
 
   .item_classificar h4 {
@@ -107,6 +107,20 @@
 
 
 @media(max-width: 420px) {  
+  .item_classificar {
+      width: 10rem;
+  }
+
+  .item_classificar h4 {
+    font-size: 0.97rem;
+  }
+
+  .item_classificar h5 {
+    font-size: 0.9rem;
+  }
+}
+
+@media(max-width: 390px) {  
   .item_classificar {
       width: 100%;
   }
